@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Michael
 #### Design and Development
-I'm a mechanical engineering graduate from Australia, but my true passion lies in software development. Currently, I'm diving into JavaScript and honing my skills by building projects and working through exercises. Follow along as I document my learning journey—any feedback or collaboration is always welcome! 🚀
+Graduated with a degree in Mechanical Engineering, I have a passion for solving problems and software development. Currently, I'm diving into JavaScript and honing my skills by building projects and working through exercises. Follow along as I document my learning journey — any feedback or collaboration is always welcome! 🚀
 
 Skills: PY / JS / HTML / CSS
 
