@@ -8,4 +8,4 @@ Skills: PY / JS / HTML / CSS
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkaribi17)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelkaribi)](https://github.com/anuraghazra/github-readme-stats)
